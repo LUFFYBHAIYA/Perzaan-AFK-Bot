@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ZenithSMPMC.aternos.me",
-    "port"24825:,
+    "port"24825,
     "version": "1.21.1"
   },
   "position": {
